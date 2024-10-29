@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Tahoma, Arial;
+}
+.serial {
+    width: 300px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #eee;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    height: 64px;
+}
+.generate {
+    background-color: black;
+    color: white;
+    margin: 20px auto;
+    padding: 10px 20px;
+    display: block;
+    width: fit-content;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    user-select: none;
+}
